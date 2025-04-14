@@ -3092,12 +3092,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0e3cba91e699654499af3f67c2c9c4ed, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  serverName: 'questions-unity-polling-test-database.cfw0yqmeusu0.eu-north-1.rds.amazonaws.com '
-  port: 1433
-  databaseName: test_questions
-  userName: admin
-  password: m0niG3ndut!!
-  tableName: questions_collection
+  serverName: 
+  port: 
+  databaseName: 
+  userName: 
+  password: 
+  tableName: 
   queryId: 1
   queryDate: 1
   queryQuestion: 1
