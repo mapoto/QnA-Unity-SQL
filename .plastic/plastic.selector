@@ -1,0 +1,4 @@
+repository "QnA@buw_gejo4207@cloud"
+  path "/"
+    br "/main"
+    co "/main"
